@@ -17,4 +17,4 @@ Mi experiencia laboral previa se ha centrado principalmente en el área de labor
 - **[Proyecto OnlyFlans](https://github.com/MauricioEBH6/proyecto-onlyflans.git)**: Aplicación web desarrollada como parte de mi evaluación de Bootcamp, aplicando buenas prácticas y correcciones de código.
 
 ### 📫 Cómo contactarme
-- **LinkedIn:** [Haz clic aquí para ver mi perfil](www.linkedin.com/in/mauricio-berrios-herrera-440a9b215)
+- **LinkedIn:** - **LinkedIn:** [Haz clic aquí para ver mi perfil](https://www.linkedin.com/in/mauricio-berrios-herrera-440a9b215)
